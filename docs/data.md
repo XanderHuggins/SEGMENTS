@@ -5,9 +5,9 @@ nav_order: 3
 ---
 
 ### Search data
-Search through the interactive table below to find datasets contained in SEGMENTS, their original source, and a summary of any preprocessing applied to the data. 
+Search through the interactive table below to find datasets contained in SEGMENTS, their original source, and a summary of any preprocessing applied to the data. *Note: only up to 3 datasets are shown in the table below at any time.* 
 
-*search widget to be completed soon*
+<iframe src="https://xanderhuggins.shinyapps.io/SEGMENTS/" width="100%" height="400px" frameBorder="0"></iframe>
 
 ### Download data
 
