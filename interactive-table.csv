@@ -1,0 +1,7 @@
+﻿Name,Parameter,Parent_folder,Source,Raw_format,Raw_resolution,30arc_preprocess,5arc_preprocess,Original_provided?,Notes
+GRACE-TWS,Terrestrial Water Storage,Time series,https://grace.jpl.nasa.gov/data/get-data/jpl_global_mascons/,Raster,0.5,NA,ngb resample,Y,
+MAR-database,Managed aquifer recharge sites,Static data & sequences,https://ggis.un-igrac.org/view/marportal,Points,NA,Rasterize count per type,Rasterize count per type,Y,
+HydroBASINS,HydroBASINS levels 3-6,Areal units,,Vector,NA,Rasterize ngb,Rasterize ngb,N,
+WHYMAP-Major,Major aquifers of the world,Areal units,,Vector,NA,Rasterize ngb,Rasterize ngb,N,
+WHYMAP-global,Aquifer and recharge classes,Areal units,,Vector,NA,Rasterize ngb,Rasterize ngb,N,
+GLDAS-CLSM-gws,Groundwater storage,Time series,,Raster,0.25,Aggregate using average,ngb resample,N,Modified from daily to monthly time steps using mean daily values.
