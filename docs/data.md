@@ -5,6 +5,8 @@ nav_order: 3
 ---
 
 ### Search data
+Search through the interactive table below to find datasets contained in SEGMENTS, their original source, and a summary of any preprocessing applied to the data. 
+
 *search widget to be completed soon*
 
 ### Download data
@@ -17,6 +19,7 @@ Choose from the two resolutions provided below:
 
 <img style="float: left;" src="https://dataverse.scholarsportal.info/assets/img/dataverse-logo.png" 
   width="250"/> 
+<br/>
 
 ### Metadata
 All data preprocessing steps are documented in this  [**metadata document**](), and can also be viewed through the database's [**GitHub repository**]().   
