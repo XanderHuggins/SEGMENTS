@@ -7,6 +7,6 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XanderHuggins/SEGMENTS/6dc367dd8bc7f9e1eb79b6e48c12ce4eb3401359/digits-logo.svg" 
+  <img src="https://raw.githubusercontent.com/XanderHuggins/SEGMENTS/6ed0a6fdf11fa6bcb16e519c50c9bc9fcdf5e9a6/docs/digits-logo.svg" 
   width="600"/>
 </p>
