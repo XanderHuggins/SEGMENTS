@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XanderHuggins/SEGMENTS/653fb007bf52f98cee5a2280d81e0cd7617fe33f/docs/digits-logo-4.svg" 
+  <img src="https://raw.githubusercontent.com/XanderHuggins/SEGMENTS/0c341ea5b3ad6ff231c63beebeb86d9ca26e6794/docs/digits-logo-5.svg" 
   width="600"/>
 </p>
 
@@ -18,4 +18,7 @@ Navigate through the tabs on the left to access data, documentation, and provide
 
 SEGMENTS is maintained by Xander Huggins (<xanderhuggins@uvic.ca>), Tom Gleeson (<tgleeson@uvic.ca>), and James S. Famiglietti (<jay.famiglietti@usask.ca>). For more information see the open-access paper:
 
-Huggins, X., Gleeson, T., J.S. Famiglietti. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges. *Manuscript currently in preparation*.
+* Huggins, X., Gleeson, T., J.S. Famiglietti. Data science for global social-ecological systems: a new approach for wicked groundwater sustainability challenges. *Manuscript currently in preparation*.
+
+
+The logo above draws on iconography found in Irina Shatilova's ["Natural water source"](https://www.shutterstock.com/image-vector/natural-water-source-infographics-world-day-611784482) and Diego Naive's ["Sustainability" icon](https://thenounproject.com/search/?q=sustainability&i=323406).
