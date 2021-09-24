@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Download data
-nav_order: 3
+nav_order: 2
 ---
 
 ### Search data
@@ -10,9 +10,6 @@ Search through the interactive table below to find datasets contained in SEGMENT
 <iframe src="https://xanderhuggins.shinyapps.io/SEGMENTS/" width="100%" height="400px" frameBorder="0" margin-left="-30px" padding-left="-30px"></iframe>
 
 ### Download data
-
-<img style="float: right;padding-bottom: 30px; padding-left: 10px" src="https://dataverse.scholarsportal.info/assets/img/dataverse-logo.png" 
-  width="250"/> 
 
 Choose from the two resolutions provided below. The links will re-direct you to Scholars Portal Dataverse to download files individually. 
 
