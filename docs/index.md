@@ -11,8 +11,6 @@ permalink: /
   width="600"/>
 </p>
 
-### About
-
 DIGITS is an on-going initiative to facilitate interdisciplinary analysis on large-scale groundwater sustainability topics through providing an open-access database containing preprocessed, analysis-ready global data curated from the existing scientific and grey literature.
 
 Navigate through the tabs on the left to access data, documentation, and provide feedback on this initiative.
