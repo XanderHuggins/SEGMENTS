@@ -7,7 +7,7 @@ permalink: /
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/XanderHuggins/SEGMENTS/0c341ea5b3ad6ff231c63beebeb86d9ca26e6794/docs/digits-logo-5.svg" 
+  <img src="https://raw.githubusercontent.com/XanderHuggins/SEGMENTS/554a1ae150817abb3ca766bded5c1ae85977dfb2/docs/digits-logo-6.svg" 
   width="600"/>
 </p>
 
